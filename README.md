@@ -112,8 +112,8 @@ SNAPSHOT - Top_5_saler
 ![Top_5_saler](/output/top_5_saler.png)
 
 SNAPSHOT - Pivort_table
-# Pivort_table
-![Pivort_table](/output/pivort_table.png)
+# Pivot_table
+![Pivot_table](/output/pivort_table.png)
 
 ## 🎯 Key Insights
 
