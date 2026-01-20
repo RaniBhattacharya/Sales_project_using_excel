@@ -79,6 +79,41 @@ The dashboard provides a **clear, interactive, and business-friendly view** of s
 
 
 ---
+📌 **FILE -- EXCEL_WORKING :** 
+👉 **[Excel_Sales_Project_working_sheet_f](Excel_Sales_Project_working_sheet_f)**
+### 📊 EXCEL Snapshots
+
+SNAPSHOT – Line_Chart
+# Line_chart
+![Line_Chart](/output/line_chart.png)
+
+SNAPSHOT – Bar_chart
+# Bar_chart
+![Bar_Chart](/output/bar_chart.png)
+
+SNAPSHOT – Pie_chart
+# Pie_chart
+![Pie_Chart](/output/pie_chart.png)
+
+SNAPSHOT - KPI
+# KPI
+![KPI](/output/KPI.png)
+
+SNAPSHOT - Average_units_sold_of_product
+# Average_units_sold_of_product
+![Average_units_sold_of_product](/output/average_units_sold_of_product.png)
+
+SNAPSHOT - Monthly_sales_trend
+# Monthly_sales_trend
+![Monthly_sales_trend](/output/monthly_sales_trend.png)
+
+SNAPSHOT - Top_5_saler
+# Top_5_saler
+![Top_5_saler](/output/top_5_saler.png)
+
+SNAPSHOT - Pivort_table
+# Pivort_table
+![Pivort_table](/output/pivort_table.png)
 
 ## 🎯 Key Insights
 
